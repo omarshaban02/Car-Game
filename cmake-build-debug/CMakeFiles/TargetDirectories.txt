@@ -1,0 +1,3 @@
+D:/CUFE/SBE/3rd/1st term/GFX/assignment5_team18/assignment5_team18/cmake-build-debug/CMakeFiles/assignment5_team18.dir
+D:/CUFE/SBE/3rd/1st term/GFX/assignment5_team18/assignment5_team18/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CUFE/SBE/3rd/1st term/GFX/assignment5_team18/assignment5_team18/cmake-build-debug/CMakeFiles/rebuild_cache.dir

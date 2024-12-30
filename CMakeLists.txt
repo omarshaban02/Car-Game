@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.23.2)
+project(assignment5_team18)
+
+set(CMAKE_CXX_STANDARD 20)
+add_executable(assignment5_team18 main.cpp getBMP.cpp)
+#add_executable(tasks main.cpp)
+find_package(OpenGL REQUIRED)
+find_package(GLUT REQUIRED)
+find_package(GLEW REQUIRED)
+target_link_libraries(assignment5_team18 OpenGL::GL  GLUT::GLUT  GLEW::GLEW  -lfreeGLUT GLU32)
